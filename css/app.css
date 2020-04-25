@@ -1,0 +1,78 @@
+.input-group-label select, .input-group {
+    margin-bottom: 0px;
+}
+
+body {
+    background-color: #37B34A;
+    font-family: "Montserrat";
+}
+
+h1 {
+    font-family: "Montserrat";
+    font-weight: 500;
+}
+
+#instructions {
+    background-image: url(../img/calculator-icon-svg.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card:hover {
+    background-color: rgb(223, 223, 223);
+}
+
+.button, .top-bar, .top-bar ul {
+    background-color: darkgreen;
+}
+
+.button {
+    border: 1px solid darkgreen;
+}
+
+#reset-button {
+    margin-bottom: 0px;
+}
+
+.button:hover, .button:focus{
+    background-color: rgb(46, 148, 61);
+}
+
+a {
+    color: white;
+}
+
+.top-logo {
+    width: 150px;
+}
+
+.menu .menu-text {
+    padding: 0em;
+}
+
+#hero-image {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ #mealCategory div,#card-row {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 3px;
+}
+
+#card-row {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#mealCategory div p {
+    margin-bottom: 0px;
+}
+
+.data-section {
+    margin-top: 10px;
+}
